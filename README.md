@@ -1,5 +1,5 @@
 # artist-inventory
-A really basic inventory system that an artist can when selling at conventions.
+A really basic inventory system that an artist can use when selling at conventions.
 
 This is based off a grocery store inventory system that I made in school but I adopted it and made it a lot more flexible. The main use case for this is selling at conventions, it'll help you keep track of sales as well as inventory instead of doing it on paper. I'm aware it's not very intuitive to use as it is right now, but I've been toying with the idea of using a SQLite database instead of just using textfiles but that'll probably be in another project since it's basically a rewrite. I also want to eventually do an android app or something but we'll see. I will definately make sure it's csv compatabile so its excel/sheet friendly.
 
