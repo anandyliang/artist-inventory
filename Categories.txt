@@ -1,0 +1,32 @@
+2" Double-sided
+10
+3
+25
+1.5" Single-sided
+7
+3
+18
+1.5" Double-sided
+7
+3
+18
+3" Single-sided
+3
+5
+10
+1.5" Buttons
+2
+3
+18
+11" x 17" Poster
+15
+3
+30
+4" by 6" Postcard
+7
+3
+10
+2" Stickers
+2
+3
+5
