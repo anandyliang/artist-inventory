@@ -1,7 +1,7 @@
 # artist-inventory
 A really basic inventory system that an artist can use when selling at conventions.
 
-This is based off a grocery store inventory system that I made in school but I adopted it and made it a lot more flexible. The main use case for this is selling at conventions, it'll help you keep track of sales as well as inventory instead of doing it on paper. I'm aware it's not very intuitive to use as it is right now, but I've been toying with the idea of using a SQLite database instead of just using textfiles but that'll probably be in another project since it's basically a rewrite. I also want to eventually do an android app or something but we'll see. I will definately make sure it's csv compatabile so its excel/sheet friendly.
+This is based off a grocery store inventory system that I made in school but I adopted it and made it a lot more flexible. The main use case for this is selling at conventions, it'll help you keep track of sales as well as inventory instead of doing it on paper. I'm aware it's not very intuitive to use as it is right now, but I've been toying with the idea of using a SQLite database instead of just using textfiles but that'll probably be in another project since it's basically a rewrite. I also want to eventually do an android app or something but we'll see. I will definately make sure it's csv compatible so its excel/sheet friendly.
 
 ## How do I use this?
 
@@ -9,6 +9,9 @@ This program is reliant on two text files inside a 'files' folder inside the sam
 - Categories.txt
 - Inventory.txt
 
+Once loaded you can just click the add or subtract buttons for each item to add them to the cash register. Once the customer is ready to check out, you can hit the check out button and finish the trasaction. Note that the files only get updated and saved once you quit the program and press save. The program will also write a Grand Total file detailing how much you made in that session.
+
+Any issues or bugs can be reported using the issues tracker. I'll try my best to look at it and respond accordingly.
 
 ### Categories.txt
 
